@@ -1,0 +1,8 @@
+{
+  "name": "Mersin Manşet",
+  "description": "Mersin ili için en güncel, hızlı yüklenen ve özgün içerikli yerel haber portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
